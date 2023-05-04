@@ -1,6 +1,5 @@
 <h1 align="center">Olá, eu sou Mateus</h1>
-<p>Estudante de Sistemas de Informação no IFMG - Campus São João Evangelista.</p>
-<p>Atualmente estou cursando o 7° período.</p>
+<h3 align="center">Estudante de Sistemas de Informação no IFMG - Campus São João Evangelista e atualmente estou cursando o 7° período.</h3>
 
 <h3 align="left">Minhas conexões:</h3>
 <p align="left">
