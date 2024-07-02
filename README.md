@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Mateus</h1>
-<h3 align="center">Estudante de Sistemas de Informação no IFMG - Campus São João Evangelista e atualmente estou cursando o 7° período.</h3>
+<h3 align="center">Bacharel em Sistemas de Informação no IFMG - Campus São João Evangelista.</h3>
 
 <div align="center" style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateushen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
